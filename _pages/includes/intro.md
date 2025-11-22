@@ -1,5 +1,9 @@
 
-I‘m Kang He, Shanghai Innovation Institute
+I am a Phd student at Wuhan University and Shanghai Innovation Institute (SII), supervised by Prof. [Donghong Ji](https://scholar.google.com/citations?user=2Q-7u3AAAAAJ) and Prof. [Xipeng Qiu](https://xpqiu.github.io/). I graduated from the School of Computer Science, Wuhan University with a bachelor's degree, advised by Prof. [Mang Ye](https://marswhu.github.io/) and from the School of Cyber Science and Engineering, Wuhan University with a master's degree, advised by [Prof. Donghong Ji](https://scholar.google.com/citations?user=2Q-7u3AAAAAJ).
+
+My current research focuses on multimodal representation learning, multimodal sentiment analysis and continual reasoning in LLMs. Feel free to contact me via email at hekang0225@whu.edu.cn.
+
+
 
 <!-- I am now working on audio-driven video generation and text-to-speech research. If you are seeking any form of **academic cooperation**, please feel free to email me at [rayeren613@gmail.com](mailto:rayeren613@gmail.com). We are hiring interns! -->
 

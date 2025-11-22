@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Kang He (何慷)"
 description              : "Focusing on MLLMs, Representation Learning, Multimodal Sentiment Analysis."
-repository               : "rayeren/rayeren.github.io"
+repository               : "kangverse/kangverse.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Kang He (何慷)"
-  avatar           : "images/hk_profile_1.png"
+  avatar           : "images/hk_profile_2.png"
   bio              : "WHU,SII"
   location         : "Shanghai, China"
   employer         :

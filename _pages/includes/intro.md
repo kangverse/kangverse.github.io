@@ -3,6 +3,8 @@ I am a Phd student at Wuhan University and Shanghai Innovation Institute (SII), 
 
 My current research focuses on multimodal representation learning, multimodal sentiment analysis and continual reasoning in LLMs. Feel free to contact me via email at hekang0225@whu.edu.cn.
 
+Pursue meaningful work！ Embrace life with passion！
+
 
 
 <!-- I am now working on audio-driven video generation and text-to-speech research. If you are seeking any form of **academic cooperation**, please feel free to email me at [rayeren613@gmail.com](mailto:rayeren613@gmail.com). We are hiring interns! -->

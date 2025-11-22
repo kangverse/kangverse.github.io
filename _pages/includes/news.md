@@ -1,5 +1,5 @@
 # 🔥 News
-- *2025.11*: 🎉 One papers are accepted by AAAI 2026.
+- *2025.11*: 🎉 One paper is accepted by AAAI 2026.
 - *2025.05*: 🎉 Two papers are accepted by ACL 2025.
 
 <!-- - *2023.01*: DiffSinger was introduced in [a very popular video](https://www.bilibili.com/video/BV1uM411t7ZJ) (2000k+ views) in Bilibili!

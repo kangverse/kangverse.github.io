@@ -4,7 +4,7 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/pase.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-PaSE: Prototype-aligned Calibration and Shapley-based Equilibrium for Multimodal Sentiment Analysis \\
+[PaSE: Prototype-aligned Calibration and Shapley-based Equilibrium for Multimodal Sentiment Analysis](https://arxiv.org/abs/2511.17585) \\
 **Kang He**, Boyu Chen, Yuzhe Ding, Fei Li, Chong Teng, Donghong Ji
 </div>
 </div>

@@ -14,7 +14,7 @@ Uncertainty-Calibrated Elastic Alignment for Multimodal Sentiment Analysis with 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/ebmc.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[PaSE: Prototype-aligned Calibration and Shapley-based Equilibrium for Multimodal Sentiment Analysis](https://arxiv.org/abs/2604.12518) \\
+[Enhance-then-Balance Modality Collaboration for Robust Multimodal Sentiment Analysis](https://arxiv.org/abs/2604.12518) \\
 **Kang He**, Yuzhe Ding, Xinrong Wang, Fei Li, Chong Teng, Donghong Ji
 </div>
 </div>

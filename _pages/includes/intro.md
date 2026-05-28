@@ -20,12 +20,5 @@
       <span class="kv-tag">World Models</span>
       <span class="kv-tag">LLM Reasoning</span>
     </div>
-    <p class="kv-hero__links">
-      <a href="mailto:hekang0225@whu.edu.cn">Email</a>
-      <span>·</span>
-      <a href="https://scholar.google.com/citations?user=XZkbR5sAAAAJ">Google Scholar</a>
-      <span>·</span>
-      <a href="https://kangverse.github.io">Homepage</a>
-    </p>
   </div>
 </section>

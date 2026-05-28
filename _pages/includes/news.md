@@ -1,4 +1,6 @@
 # 🔥 News
+- *2026.04*: 🎉 Two paper is accepted by ACL 2026.
+- *2026.02*: 🎉 One paper is accepted by CVPR 2026.
 - *2025.11*: 🎉 One paper is accepted by AAAI 2026.
 - *2025.05*: 🎉 Two papers are accepted by ACL 2025.
 

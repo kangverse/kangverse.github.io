@@ -84,10 +84,10 @@
   overflow: hidden;
   border-radius: 18px;
   margin: 0.2rem 0 1.8rem;
-  border: 1px solid rgba(37, 99, 235, 0.15);
-  background: linear-gradient(120deg, #0f172a 0%, #1d4ed8 55%, #0c4a6e 100%);
-  color: #f8fafc;
-  box-shadow: 0 20px 46px rgba(15, 23, 42, 0.2);
+  border: 1px solid rgba(59, 130, 246, 0.2);
+  background: linear-gradient(120deg, #eff6ff 0%, #dbeafe 52%, #fef3c7 100%);
+  color: #1f2937;
+  box-shadow: 0 18px 36px rgba(30, 64, 175, 0.12);
   animation: kv-hero-in 0.7s ease-out both;
 }
 
@@ -98,7 +98,7 @@
   right: -3rem;
   top: -4rem;
   border-radius: 999px;
-  background: radial-gradient(circle, rgba(250, 204, 21, 0.42) 0%, rgba(250, 204, 21, 0) 72%);
+  background: radial-gradient(circle, rgba(125, 211, 252, 0.5) 0%, rgba(125, 211, 252, 0) 72%);
 }
 
 .kv-hero__content {
@@ -112,20 +112,20 @@
   margin: 0;
   padding: 0.2rem 0.64rem;
   border-radius: 999px;
-  background: rgba(255, 255, 255, 0.14);
-  color: #e0ecff;
+  background: rgba(59, 130, 246, 0.12);
+  color: #1d4ed8;
   font-size: 0.74rem;
   font-weight: 700;
   letter-spacing: 0.08em;
 }
 
-.kv-hero__title {
+.kv-hero .kv-hero__title {
   margin-top: 0.75rem;
   margin-bottom: 0.9rem;
   font-family: "Fraunces", Georgia, serif;
   font-size: 2rem;
   line-height: 1.1;
-  color: #f8fafc;
+  color: #0f172a;
 }
 
 .kv-hero__title::after {
@@ -133,14 +133,14 @@
 }
 
 .kv-hero p {
-  color: #dbeafe;
+  color: #334155;
   margin-bottom: 0.8rem;
 }
 
 .kv-hero a {
-  color: #fde68a;
+  color: #1d4ed8;
   text-decoration: none;
-  border-bottom: 1px solid rgba(253, 230, 138, 0.5);
+  border-bottom: 1px solid rgba(29, 78, 216, 0.35);
 }
 
 .kv-tag-row {
@@ -154,9 +154,9 @@
   display: inline-flex;
   align-items: center;
   border-radius: 999px;
-  border: 1px solid rgba(255, 255, 255, 0.34);
-  background: rgba(15, 23, 42, 0.2);
-  color: #eff6ff;
+  border: 1px solid rgba(59, 130, 246, 0.35);
+  background: rgba(255, 255, 255, 0.68);
+  color: #1e3a8a;
   padding: 0.22rem 0.7rem;
   font-size: 0.78rem;
   font-weight: 600;
@@ -173,7 +173,7 @@
 }
 
 .kv-hero__links span {
-  color: #93c5fd;
+  color: #64748b;
 }
 
 .paper-box {

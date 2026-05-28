@@ -40,70 +40,242 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
-.paper-box {
-    display: flex;
-    justify-content: left;
-    align-items: center;
-    flex-direction: row;
-    flex-wrap: wrap;
-    border-bottom: 1px #efefef solid;
-    padding: 2em 0 2em 0;
-    
-
-    .paper-box-image{
-        justify-content: center;
-        display: flex;
-        width: 100%;
-        order: 2;
-        img {
-            max-width: 400px;
-            box-shadow: 3px 3px 6px #888;
-            object-fit: cover;
-        }
-    }
-    
-    .paper-box-text{
-        max-width: 100%;
-        order: 1;
-    }
-    
-    @include breakpoint($medium) {
-        .paper-box-image{
-            justify-content: left;
-            min-width: 200px;
-            max-width: 40%;
-            order: 1;
-        }
-        
-        .paper-box-text{
-            justify-content: left;
-            padding-left: 2em;
-            max-width: 60%;
-            order: 2;
-        }
-
-    }
-
-
+.kv-home {
+  font-family: "Space Grotesk", "Helvetica Neue", Helvetica, sans-serif;
+  color: #1f2937;
+  background:
+    radial-gradient(140% 75% at 100% 0%, rgba(7, 89, 133, 0.14) 0%, rgba(7, 89, 133, 0) 60%),
+    radial-gradient(90% 70% at 0% 35%, rgba(251, 146, 60, 0.14) 0%, rgba(251, 146, 60, 0) 64%);
+  border-radius: 20px;
+  padding: 1.4rem 1.2rem 2rem;
 }
 
-$scroll_offset : 2em;
-h1:before, .anchor:before { 
-    content: ''; 
-    display: block; 
-    position: relative; 
-    width: 0; 
-    height: $scroll_offset; 
-    margin-top: -$scroll_offset;
+.kv-home p,
+.kv-home li {
+  line-height: 1.75;
+}
+
+.kv-home h1 {
+  font-family: "Fraunces", Georgia, serif;
+  border-bottom: 0;
+  margin-top: 2.2rem;
+  margin-bottom: 0.9rem;
+  padding-bottom: 0;
+  letter-spacing: -0.02em;
+  color: #111827;
+  position: relative;
+  display: inline-block;
+}
+
+.kv-home h1::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: -0.22rem;
+  width: 100%;
+  height: 0.34rem;
+  border-radius: 999px;
+  background: linear-gradient(90deg, #2563eb, #ea580c);
+  opacity: 0.85;
+}
+
+.kv-hero {
+  position: relative;
+  overflow: hidden;
+  border-radius: 18px;
+  margin: 0.2rem 0 1.8rem;
+  border: 1px solid rgba(37, 99, 235, 0.15);
+  background: linear-gradient(120deg, #0f172a 0%, #1d4ed8 55%, #0c4a6e 100%);
+  color: #f8fafc;
+  box-shadow: 0 20px 46px rgba(15, 23, 42, 0.2);
+  animation: kv-hero-in 0.7s ease-out both;
+}
+
+.kv-hero__glow {
+  position: absolute;
+  width: 18rem;
+  height: 18rem;
+  right: -3rem;
+  top: -4rem;
+  border-radius: 999px;
+  background: radial-gradient(circle, rgba(250, 204, 21, 0.42) 0%, rgba(250, 204, 21, 0) 72%);
+}
+
+.kv-hero__content {
+  position: relative;
+  z-index: 1;
+  padding: 1.7rem 1.4rem 1.55rem;
+}
+
+.kv-eyebrow {
+  display: inline-flex;
+  margin: 0;
+  padding: 0.2rem 0.64rem;
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.14);
+  color: #e0ecff;
+  font-size: 0.74rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+}
+
+.kv-hero__title {
+  margin-top: 0.75rem;
+  margin-bottom: 0.9rem;
+  font-family: "Fraunces", Georgia, serif;
+  font-size: 2rem;
+  line-height: 1.1;
+  color: #f8fafc;
+}
+
+.kv-hero__title::after {
+  display: none;
+}
+
+.kv-hero p {
+  color: #dbeafe;
+  margin-bottom: 0.8rem;
+}
+
+.kv-hero a {
+  color: #fde68a;
+  text-decoration: none;
+  border-bottom: 1px solid rgba(253, 230, 138, 0.5);
+}
+
+.kv-tag-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.42rem;
+  margin-top: 0.95rem;
+}
+
+.kv-tag {
+  display: inline-flex;
+  align-items: center;
+  border-radius: 999px;
+  border: 1px solid rgba(255, 255, 255, 0.34);
+  background: rgba(15, 23, 42, 0.2);
+  color: #eff6ff;
+  padding: 0.22rem 0.7rem;
+  font-size: 0.78rem;
+  font-weight: 600;
+}
+
+.kv-hero__links {
+  margin-top: 0.85rem;
+  margin-bottom: 0;
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  font-size: 0.92rem;
+}
+
+.kv-hero__links span {
+  color: #93c5fd;
+}
+
+.paper-box {
+  display: flex;
+  justify-content: left;
+  align-items: center;
+  flex-direction: row;
+  flex-wrap: wrap;
+  border: 1px solid #e5e7eb;
+  border-radius: 16px;
+  background: rgba(255, 255, 255, 0.85);
+  margin: 1rem 0;
+  padding: 1.1rem;
+  box-shadow: 0 10px 24px rgba(30, 64, 175, 0.07);
+  transition: transform 0.24s ease, box-shadow 0.24s ease;
+
+  &:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 16px 30px rgba(30, 64, 175, 0.14);
+  }
+
+  .paper-box-image {
+    justify-content: center;
+    display: flex;
+    width: 100%;
+    order: 2;
+
+    img {
+      max-width: 400px;
+      border-radius: 10px;
+      box-shadow: 0 8px 22px rgba(30, 41, 59, 0.22);
+      object-fit: cover;
+    }
+  }
+
+  .paper-box-text {
+    max-width: 100%;
+    order: 1;
+  }
+
+  @include breakpoint($medium) {
+    .paper-box-image {
+      justify-content: left;
+      min-width: 220px;
+      max-width: 38%;
+      order: 1;
+    }
+
+    .paper-box-text {
+      justify-content: left;
+      padding-left: 1.4rem;
+      max-width: 62%;
+      order: 2;
+    }
+  }
+}
+
+$scroll_offset: 2em;
+h1:before,
+.anchor:before {
+  content: "";
+  display: block;
+  position: relative;
+  width: 0;
+  height: $scroll_offset;
+  margin-top: -$scroll_offset;
 }
 
 .badge {
-    padding-left: 1rem;
-    padding-right: 1rem;
-    position: absolute;
-    margin-top: .5em;
-    margin-left: -.5em;
-    color: white;
-    background-color: #00369f;
-    font-size: .8em;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  position: absolute;
+  margin-top: 0.55em;
+  margin-left: -0.35em;
+  color: #fff;
+  background: linear-gradient(90deg, #1d4ed8, #0f766e);
+  font-size: 0.8em;
+  border-radius: 999px;
+  box-shadow: 0 6px 14px rgba(29, 78, 216, 0.3);
+}
+
+@keyframes kv-hero-in {
+  from {
+    transform: translateY(10px);
+    opacity: 0;
+  }
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+
+@include breakpoint($small) {
+  .kv-home {
+    padding: 1rem 0.86rem 1.45rem;
+  }
+
+  .kv-home h1 {
+    margin-top: 1.7rem;
+  }
+
+  .kv-hero__title {
+    font-size: 1.58rem;
+  }
 }

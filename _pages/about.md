@@ -8,11 +8,9 @@ redirect_from:
   - /about.html
 ---
 
+<div class="kv-home">
 <span class='anchor' id='about-me'></span>
 {% include_relative includes/intro.md %}
-
-
-
 
 {% include_relative includes/news.md %}
 
@@ -22,3 +20,4 @@ redirect_from:
 {% include_relative includes/honers.md %}
 
 {% include_relative includes/others.md %}
+</div>

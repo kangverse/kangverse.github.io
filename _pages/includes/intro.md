@@ -1,18 +1,31 @@
-
-I am a Phd student at Wuhan University and Shanghai Innovation Institute (SII), supervised by Prof. [Donghong Ji](https://scholar.google.com/citations?user=2Q-7u3AAAAAJ) and Prof. [Xipeng Qiu](https://xpqiu.github.io/). I graduated from the School of Computer Science, Wuhan University with a bachelor's degree, advised by Prof. [Mang Ye](https://marswhu.github.io/) and from the School of Cyber Science and Engineering, Wuhan University with a master's degree, advised by [Prof. Donghong Ji](https://scholar.google.com/citations?user=2Q-7u3AAAAAJ).
-
-My current research focuses on multimodal representation learning, multimodal sentiment analysis and continual reasoning in LLMs. Feel free to contact me via email at hekang0225@whu.edu.cn.
-
-Pursue meaningful work！ Embrace life with passion！
-
-
-
-<!-- I am now working on audio-driven video generation and text-to-speech research. If you are seeking any form of **academic cooperation**, please feel free to email me at [rayeren613@gmail.com](mailto:rayeren613@gmail.com). We are hiring interns! -->
-
-<!-- I graduated from [Chu Kochen Honors College](http://ckc.zju.edu.cn/ckcen/main.htm), Zhejiang University (浙江大学竺可桢学院) with a bachelor's degree and from the Department of Computer Science and Technology, Zhejiang University (浙江大学计算机科学与技术学院) with a master's degree, advised by [Zhou Zhao (赵洲)](https://person.zju.edu.cn/zhaozhou). I also collaborate with [Xu Tan (谭旭)](https://www.microsoft.com/en-us/research/people/xuta/), [Tao Qin (秦涛)](https://www.microsoft.com/en-us/research/people/taoqin/) and [Tie-yan Liu (刘铁岩)](https://www.microsoft.com/en-us/research/people/tyliu/) from [Microsoft Research Asia](https://www.microsoft.com/en-us/research/group/machine-learning-research-group/) <img src='./images/microsoft_logo.svg' style="width: 4em;"> closely.  -->
-
-<!-- I won the [Baidu Scholarship](https://baike.baidu.com/item/%E7%99%BE%E5%BA%A6%E5%A5%96%E5%AD%A6%E9%87%91/9929412) (10 candidates worldwide each year) and [ByteDance Scholars Program](https://ur.bytedance.com/scholarship) (10 candidates worldwide each year) in 2020 and was selected as one of [the top 100 AI Chinese new stars](https://mp.weixin.qq.com/s?__biz=MzA4NzQ5MTA2NA==&mid=2653639431&idx=1&sn=25b6368c1954419b9090840347d9a27d&chksm=8be75b90bc90d286a5af3ef8e610e822d705dc3cf4382b45e3f14489f3e7ec4fd8c95ed0eceb&mpshare=1&scene=2&srcid=0511LMlj9Qv9DeIZAjMjYAU9&sharer_sharetime=1620731348139&sharer_shareid=631c113940cb81f34895aa25ab14422a#rd) and AI Chinese New Star Outstanding Scholar (10 candidates worldwide each year).  -->
-<!-- 
-My research interest includes speech synthesis, neural machine translation and automatic music generation. I have published 50+ papers <a href='https://scholar.google.com/citations?user=4FA6C0AAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FRayeRen%2Frayeren.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the top international AI conferences such as NeurIPS, ICML, ICLR, KDD.  -->
-
-<!-- To promote the communication among the Chinese ML & NLP community, we (along with other 11 young scholars worldwide) founded the [MLNLP community](https://space.bilibili.com/168887299) in 2021. I am honored to be one of the chairs of the MLNLP committee. -->
+<section class="kv-hero">
+  <div class="kv-hero__glow"></div>
+  <div class="kv-hero__content">
+    <p class="kv-eyebrow">KANG HE | WHU x SII</p>
+    <h1 class="kv-hero__title">Multimodal Intelligence for Robust Understanding and Reasoning</h1>
+    <p>
+      I am a PhD student at Wuhan University and Shanghai Innovation Institute (SII), supervised by Prof.
+      <a href="https://scholar.google.com/citations?user=2Q-7u3AAAAAJ">Donghong Ji</a> and Prof.
+      <a href="https://xpqiu.github.io/">Xipeng Qiu</a>. I received my BS from the School of Computer Science, Wuhan University
+      (advised by Prof. <a href="https://marswhu.github.io/">Mang Ye</a>) and my MS from the School of Cyber Science and Engineering,
+      Wuhan University (advised by Prof.
+      <a href="https://scholar.google.com/citations?user=2Q-7u3AAAAAJ">Donghong Ji</a>).
+    </p>
+    <p>
+      My current research focuses on <strong>multimodal sentiment analysis</strong>, <strong>world models</strong>, and
+      <strong>reasoning in large language models</strong>.
+    </p>
+    <div class="kv-tag-row">
+      <span class="kv-tag">Multimodal Sentiment Analysis</span>
+      <span class="kv-tag">World Models</span>
+      <span class="kv-tag">LLM Reasoning</span>
+    </div>
+    <p class="kv-hero__links">
+      <a href="mailto:hekang0225@whu.edu.cn">Email</a>
+      <span>·</span>
+      <a href="https://scholar.google.com/citations?user=XZkbR5sAAAAJ">Google Scholar</a>
+      <span>·</span>
+      <a href="https://kangverse.github.io">Homepage</a>
+    </p>
+  </div>
+</section>

@@ -3,19 +3,21 @@
 
 ## Recent Work
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/hk_profile_2.png' alt="Sekai2" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box'><div class='paper-box-text' markdown="1">
 
 [Sekai2: From World Exploration to Interactive World Modeling](https://arxiv.org/abs/2608.09449) \\
 **Kang He**, Wenshuo Peng, Zihui Gao, Jiaming Tan, Kaipeng Zhang, Yongtao Ge
 
+<span class="paper-links"><a href="https://arxiv.org/abs/2608.09449">Paper</a> · <a href="https://github.com/kangverse/Sekai2-Dataset">Code / Dataset</a> <a href="https://img.shields.io/github/stars/kangverse/Sekai2-Dataset?style=flat-square"><img src="https://img.shields.io/github/stars/kangverse/Sekai2-Dataset?style=flat-square" alt="GitHub stars"></a></span>
+
 </div></div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/hk_profile_1.png' alt="AlayaWorld" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box'><div class='paper-box-text' markdown="1">
 
 [AlayaWorld: Interactive Long-Horizon World Modeling — Full Technical Report](https://arxiv.org/abs/2607.18367) \\
 AlayaWorld Team, Kaipeng Zhang, Chuanhao Li, Yifan Zhan, Yongtao Ge, Yuanyang Yin, Jiaming Tan, **Kang He**, et al.
+
+<span class="paper-links"><a href="https://alaya-lab.github.io/AlayaWorld/">Homepage</a> · <a href="https://github.com/AlayaLab/AlayaWorld">Code</a> · <a href="https://huggingface.co/AlayaLab/AlayaWorld">🤗 Hugging Face</a> <a href="https://img.shields.io/github/stars/AlayaLab/AlayaWorld?style=flat-square"><img src="https://img.shields.io/github/stars/AlayaLab/AlayaWorld?style=flat-square" alt="GitHub stars"></a></span>
 
 </div></div>
 

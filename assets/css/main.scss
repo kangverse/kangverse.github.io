@@ -245,6 +245,23 @@
   }
 }
 
+.paper-links {
+  display: inline-flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: .35rem;
+  margin-top: .35rem;
+  color: #65708a;
+  font-size: .88em;
+}
+
+.paper-links img {
+  width: auto;
+  height: 18px;
+  vertical-align: middle;
+  box-shadow: none;
+}
+
 $scroll_offset: 2em;
 h1:before,
 .anchor:before {

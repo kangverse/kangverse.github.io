@@ -34,10 +34,10 @@ Yuzhe Ding, **Kang He**, Li Zheng, Shengwu Zheng, Teng Shi, Fei Li, Chong Teng, 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IPM</div><img src='images/rsda.png' alt="IPM paper" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**IPM 2024** · [Heuristic Personality Recognition Based on Fusing Multiple Conversations and Utterance-Level Affection](https://doi.org/10.1016/j.ipm.2024.103931) \\
-H. He, Bobo Li, Yiyun Xiong, Zheng Li, **Kang He**, Fei Li, Donghong Ji, et al.
+**IPM 2026** · [Towards Continual Stance Detection via Dual Prototype Aware Mixture of Experts Network](https://doi.org/10.1016/j.ipm.2026.105103) \\
+Yuzhe Ding, Yuxiang Peng, **Kang He**, Li Zheng, Bobo Li, Chong Teng, Fei Li, Donghong Ji
 
-<span class="paper-links"><a href="https://doi.org/10.1016/j.ipm.2024.103931">Paper</a></span>
+<span class="paper-links"><a href="https://doi.org/10.1016/j.ipm.2026.105103">Paper</a> · <a href="https://github.com/whu-yzding/ConStance">Code / Dataset</a> <a href="https://img.shields.io/github/stars/whu-yzding/ConStance?style=flat-square"><img src="https://img.shields.io/github/stars/whu-yzding/ConStance?style=flat-square" alt="GitHub stars"></a></span>
 
 </div></div>
 

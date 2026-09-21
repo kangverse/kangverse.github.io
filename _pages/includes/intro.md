@@ -1,7 +1,7 @@
 <section class="kv-hero">
   <div class="kv-hero__glow"></div>
   <div class="kv-hero__content">
-    <p class="kv-eyebrow">KANG HE | WHU x SII</p>
+    <p class="kv-eyebrow">KANG HE · 何慷 · WHU × SII</p>
     <h1 class="kv-hero__title">Multimodal Intelligence for Robust Understanding and Reasoning</h1>
     <p>
       I am a PhD student at Wuhan University and Shanghai Innovation Institute (SII), supervised by Prof.
@@ -20,5 +20,12 @@
       <span class="kv-tag">World Models</span>
       <span class="kv-tag">LLM Reasoning</span>
     </div>
+    <p class="kv-hero__links">
+      <a href="https://scholar.google.com/citations?user=XZkbR5sAAAAJ">Google Scholar</a>
+      <span>·</span>
+      <a href="https://github.com/kangverse">GitHub</a>
+      <span>·</span>
+      <a href="mailto:hekang0225@whu.edu.cn">Email me</a>
+    </p>
   </div>
 </section>

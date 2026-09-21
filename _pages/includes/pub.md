@@ -1,6 +1,48 @@
 
 # 📝 Publications 
 
+## Recent Work
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/hk_profile_2.png' alt="Sekai2" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Sekai2: From World Exploration to Interactive World Modeling](https://arxiv.org/abs/2608.09449) \\
+**Kang He**, Wenshuo Peng, Zihui Gao, Jiaming Tan, Kaipeng Zhang, Yongtao Ge
+
+</div></div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/hk_profile_1.png' alt="AlayaWorld" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[AlayaWorld: Interactive Long-Horizon World Modeling — Full Technical Report](https://arxiv.org/abs/2607.18367) \\
+AlayaWorld Team, Kaipeng Zhang, Chuanhao Li, Yifan Zhan, Yongtao Ge, Yuanyang Yin, Jiaming Tan, **Kang He**, et al.
+
+</div></div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2026</div><img src='images/sitpcl.png' alt="MMDS-Bench" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+MMDS-Bench: Benchmarking Multimodal Large Language Models on Dynamic Stance in Social Media Interactions \\
+Yuzhe Ding, **Kang He**, Li Zheng, Shengwu Zheng, Teng Shi, Fei Li, Chong Teng, Donghong Ji
+
+</div></div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2026</div><img src='images/dalr.png' alt="PaperGraph-Bench" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+PaperGraph-Bench \\
+**Kang He**, et al.
+
+</div></div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IPM</div><img src='images/rsda.png' alt="IPM paper" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Heuristic Personality Recognition Based on Fusing Multiple Conversations and Utterance-Level Affection](https://doi.org/10.1016/j.ipm.2024.103931) \\
+H. He, Bobo Li, Yiyun Xiong, Zheng Li, **Kang He**, Fei Li, Donghong Ji, et al.
+
+</div></div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026</div><img src='images/ease.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 

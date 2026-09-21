@@ -1,8 +1,7 @@
 <section class="kv-hero">
-  <div class="kv-hero__glow"></div>
   <div class="kv-hero__content">
     <p class="kv-eyebrow">KANG HE · 何慷 · WHU × SII</p>
-    <h1 class="kv-hero__title">Multimodal Intelligence for Robust Understanding and Reasoning</h1>
+    <h1 class="kv-hero__title">Kang He (何慷)</h1>
     <p>
       I am a PhD student at Wuhan University and Shanghai Innovation Institute (SII), supervised by Prof.
       <a href="https://scholar.google.com/citations?user=2Q-7u3AAAAAJ">Donghong Ji</a> and Prof.
@@ -11,15 +10,7 @@
       Wuhan University (advised by Prof.
       <a href="https://scholar.google.com/citations?user=2Q-7u3AAAAAJ">Donghong Ji</a>).
     </p>
-    <p>
-      My current research focuses on <strong>multimodal sentiment analysis</strong>, <strong>world models</strong>, and
-      <strong>reasoning in large language models</strong>.
-    </p>
-    <div class="kv-tag-row">
-      <span class="kv-tag">Multimodal Sentiment Analysis</span>
-      <span class="kv-tag">World Models</span>
-      <span class="kv-tag">LLM Reasoning</span>
-    </div>
+    <p>My research interests include <strong>multimodal sentiment analysis</strong>, <strong>world models</strong>, and <strong>reasoning in large language models</strong>.</p>
     <p class="kv-hero__links">
       <a href="https://scholar.google.com/citations?user=XZkbR5sAAAAJ">Google Scholar</a>
       <span>·</span>

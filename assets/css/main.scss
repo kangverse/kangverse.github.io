@@ -48,13 +48,10 @@
   --kv-surface: #fffdf8;
   font-family: "Trebuchet MS", Helvetica, sans-serif;
   color: var(--kv-ink);
-  background:
-    radial-gradient(70% 45% at 100% 0%, rgba(232, 109, 85, .12), transparent 70%),
-    radial-gradient(80% 50% at 0% 32%, rgba(40, 62, 112, .07), transparent 70%),
-    #fbfaf6;
-  border: 1px solid #eee9df;
-  border-radius: 24px;
-  padding: 1.6rem 1.5rem 2.4rem;
+  background: transparent;
+  border: 0;
+  border-radius: 0;
+  padding: 0 0 2.4rem;
 }
 
 .kv-home p,
@@ -71,47 +68,32 @@
   letter-spacing: -0.02em;
   color: var(--kv-ink);
   position: relative;
-  display: inline-block;
 }
 
 .kv-home h1::after {
-  content: "";
-  position: absolute;
-  left: 0;
-  bottom: -0.22rem;
-  width: 100%;
-  height: 0.34rem;
-  border-radius: 999px;
-  background: linear-gradient(90deg, var(--kv-accent), #f2b06d);
-  opacity: 0.85;
+  content: none;
 }
 
 .kv-hero {
   position: relative;
-  overflow: hidden;
-  border-radius: 22px;
+  overflow: visible;
+  border-radius: 0;
   margin: 0.2rem 0 1.8rem;
-  border: 1px solid rgba(23, 35, 63, .12);
-  background: linear-gradient(120deg, #fffdf8 0%, #fff5e8 56%, #f1f4fb 100%);
+  border: 0;
+  background: transparent;
   color: var(--kv-ink);
-  box-shadow: 0 18px 38px rgba(23, 35, 63, .08);
+  box-shadow: none;
   animation: kv-hero-in 0.7s ease-out both;
 }
 
 .kv-hero__glow {
-  position: absolute;
-  width: 18rem;
-  height: 18rem;
-  right: -3rem;
-  top: -4rem;
-  border-radius: 999px;
-  background: radial-gradient(circle, rgba(251, 191, 36, 0.2) 0%, rgba(251, 191, 36, 0) 74%);
+  display: none;
 }
 
 .kv-hero__content {
   position: relative;
   z-index: 1;
-  padding: 2rem 1.7rem 1.8rem;
+  padding: 0 0 1rem;
   max-width: 860px;
 }
 
@@ -120,8 +102,9 @@
   margin: 0;
   padding: 0.2rem 0.64rem;
   border-radius: 999px;
-  background: rgba(232, 109, 85, .12);
-  color: var(--kv-accent-dark);
+  background: transparent;
+  color: #65708a;
+  padding-left: 0;
   font-size: 0.74rem;
   font-weight: 700;
   letter-spacing: 0.08em;
@@ -133,7 +116,7 @@
   font-family: "Trebuchet MS", Helvetica, sans-serif;
   font-weight: 700;
   letter-spacing: -0.025em;
-  font-size: clamp(2rem, 4vw, 3.3rem);
+  font-size: clamp(1.75rem, 3vw, 2.45rem);
   line-height: 1.1;
   color: var(--kv-ink);
 }
@@ -154,7 +137,7 @@
 }
 
 .kv-tag-row {
-  display: flex;
+  display: none;
   flex-wrap: wrap;
   gap: 0.42rem;
   margin-top: 0.95rem;
@@ -223,24 +206,21 @@
   align-items: center;
   flex-direction: row;
   flex-wrap: wrap;
-  border: 1px solid #e8e5de;
+  border: 0;
+  border-bottom: 1px solid #e5e7eb;
   border-radius: 16px;
-  background: rgba(255, 255, 255, .82);
+  background: transparent;
   margin: 1rem 0;
   padding: 1.1rem;
-  box-shadow: 0 10px 24px rgba(23, 35, 63, .06);
-  transition: transform 0.24s ease, box-shadow 0.24s ease;
+  box-shadow: none;
+  transition: background 0.2s ease;
 
   &:hover {
-    transform: translateY(-2px);
-    box-shadow: 0 16px 30px rgba(23, 35, 63, .12);
+    background: rgba(23, 35, 63, .025);
   }
 
   .paper-box-image {
-    justify-content: center;
-    display: flex;
-    width: 100%;
-    order: 2;
+    display: none;
 
     img {
       max-width: 400px;
@@ -253,20 +233,13 @@
   .paper-box-text {
     max-width: 100%;
     order: 1;
+    padding-left: 0;
   }
 
   @include breakpoint($medium) {
-    .paper-box-image {
-      justify-content: left;
-      min-width: 220px;
-      max-width: 38%;
-      order: 1;
-    }
-
     .paper-box-text {
       justify-content: left;
-      padding-left: 1.4rem;
-      max-width: 62%;
+      max-width: 100%;
       order: 2;
     }
   }
@@ -290,10 +263,11 @@ h1:before,
   margin-top: 0.55em;
   margin-left: -0.35em;
   color: #fff;
-  background: linear-gradient(90deg, var(--kv-accent-dark), var(--kv-accent));
+  background: #eef1f6;
+  color: #43506b;
   font-size: 0.8em;
   border-radius: 999px;
-  box-shadow: 0 6px 14px rgba(185, 75, 62, .25);
+  box-shadow: none;
 }
 
 @keyframes kv-hero-in {

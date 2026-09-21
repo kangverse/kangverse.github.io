@@ -27,6 +27,8 @@ AlayaWorld Team, Kaipeng Zhang, Chuanhao Li, Yifan Zhan, Yongtao Ge, Yuanyang Yi
 MMDS-Bench: Benchmarking Multimodal Large Language Models on Dynamic Stance in Social Media Interactions \\
 Yuzhe Ding, **Kang He**, Li Zheng, Shengwu Zheng, Teng Shi, Fei Li, Chong Teng, Donghong Ji
 
+<span class="paper-links">Paper coming soon</span>
+
 </div></div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IPM</div><img src='images/rsda.png' alt="IPM paper" width="100%"></div></div>
@@ -35,13 +37,17 @@ Yuzhe Ding, **Kang He**, Li Zheng, Shengwu Zheng, Teng Shi, Fei Li, Chong Teng, 
 [Heuristic Personality Recognition Based on Fusing Multiple Conversations and Utterance-Level Affection](https://doi.org/10.1016/j.ipm.2024.103931) \\
 H. He, Bobo Li, Yiyun Xiong, Zheng Li, **Kang He**, Fei Li, Donghong Ji, et al.
 
+<span class="paper-links"><a href="https://doi.org/10.1016/j.ipm.2024.103931">Paper</a></span>
+
 </div></div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026</div><img src='images/ease.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Uncertainty-Calibrated Elastic Alignment for Multimodal Sentiment Analysis with Missing Modalities \\
+[Uncertainty-Calibrated Elastic Alignment for Multimodal Sentiment Analysis with Missing Modalities](https://aclanthology.org/2026.findings-acl.260/) \\
 **Kang He**, Yuzhe Ding, Rao Fu, Yukang Feng, Kaipeng Zhang, Yiming Liu, Fei Li, Chong Teng, Donghong Ji
+
+<span class="paper-links"><a href="https://aclanthology.org/2026.findings-acl.260/">Paper</a></span>
 </div>
 </div>
 
@@ -52,6 +58,8 @@ Uncertainty-Calibrated Elastic Alignment for Multimodal Sentiment Analysis with 
 
 [Enhance-then-Balance Modality Collaboration for Robust Multimodal Sentiment Analysis](https://arxiv.org/abs/2604.12518) \\
 **Kang He**, Yuzhe Ding, Xinrong Wang, Fei Li, Chong Teng, Donghong Ji
+
+<span class="paper-links"><a href="https://arxiv.org/abs/2604.12518">Paper</a> · <a href="https://github.com/kangverse/EBMC">Code</a> <a href="https://img.shields.io/github/stars/kangverse/EBMC?style=flat-square"><img src="https://img.shields.io/github/stars/kangverse/EBMC?style=flat-square" alt="GitHub stars"></a></span>
 </div>
 </div>
 
@@ -62,6 +70,8 @@ Uncertainty-Calibrated Elastic Alignment for Multimodal Sentiment Analysis with 
 
 [PaSE: Prototype-aligned Calibration and Shapley-based Equilibrium for Multimodal Sentiment Analysis](https://arxiv.org/abs/2511.17585) \\
 **Kang He**, Boyu Chen, Yuzhe Ding, Fei Li, Chong Teng, Donghong Ji
+
+<span class="paper-links"><a href="https://arxiv.org/abs/2511.17585">Paper</a></span>
 </div>
 </div>
 
@@ -72,6 +82,8 @@ Uncertainty-Calibrated Elastic Alignment for Multimodal Sentiment Analysis with 
 
 [DALR: Dual-level Alignment Learning for Multimodal Sentence Representation Learning](https://aclanthology.org/2025.findings-acl.183.pdf) \\
 **Kang He**, Yuzhe Ding, Haining Wang, Fei Li, Chong Teng, Donghong Ji
+
+<span class="paper-links"><a href="https://aclanthology.org/2025.findings-acl.183/">Paper</a></span>
 <!-- 
 [**Project**](https://speechresearch.github.io/fastspeech/) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong> -->
 
@@ -88,6 +100,8 @@ Uncertainty-Calibrated Elastic Alignment for Multimodal Sentiment Analysis with 
 
 [Zero-Shot Conversational Stance Detection: Dataset and Approaches](https://aclanthology.org/2025.findings-acl.168.pdf) \\
 Yuzhe Ding, **Kang He**, Bobo Li, Li Zheng, Haijun He, Fei Li, Xu Han, Chong Teng, Donghong Ji
+
+<span class="paper-links"><a href="https://aclanthology.org/2025.findings-acl.168/">Paper</a></span>
 
 </div>
 </div>

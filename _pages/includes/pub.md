@@ -5,7 +5,7 @@
 
 <div class='paper-box'><div class='paper-box-text' markdown="1">
 
-[Sekai2: From World Exploration to Interactive World Modeling](https://arxiv.org/abs/2608.09449) \\
+**arXiv 2026** · [Sekai2: From World Exploration to Interactive World Modeling](https://arxiv.org/abs/2608.09449) \\
 **Kang He**, Wenshuo Peng, Zihui Gao, Jiaming Tan, Kaipeng Zhang, Yongtao Ge
 
 <span class="paper-links"><a href="https://arxiv.org/abs/2608.09449">Paper</a> · <a href="https://github.com/kangverse/Sekai2-Dataset">Code / Dataset</a> <a href="https://img.shields.io/github/stars/kangverse/Sekai2-Dataset?style=flat-square"><img src="https://img.shields.io/github/stars/kangverse/Sekai2-Dataset?style=flat-square" alt="GitHub stars"></a></span>
@@ -14,7 +14,7 @@
 
 <div class='paper-box'><div class='paper-box-text' markdown="1">
 
-[AlayaWorld: Interactive Long-Horizon World Modeling — Full Technical Report](https://arxiv.org/abs/2607.18367) \\
+**arXiv 2026** · [AlayaWorld: Interactive Long-Horizon World Modeling — Full Technical Report](https://arxiv.org/abs/2607.18367) \\
 AlayaWorld Team, Kaipeng Zhang, Chuanhao Li, Yifan Zhan, Yongtao Ge, Yuanyang Yin, Jiaming Tan, **Kang He**, et al.
 
 <span class="paper-links"><a href="https://alaya-lab.github.io/AlayaWorld/">Homepage</a> · <a href="https://github.com/AlayaLab/AlayaWorld">Code</a> · <a href="https://huggingface.co/AlayaLab/AlayaWorld">🤗 Hugging Face</a> <a href="https://img.shields.io/github/stars/AlayaLab/AlayaWorld?style=flat-square"><img src="https://img.shields.io/github/stars/AlayaLab/AlayaWorld?style=flat-square" alt="GitHub stars"></a></span>
@@ -24,7 +24,7 @@ AlayaWorld Team, Kaipeng Zhang, Chuanhao Li, Yifan Zhan, Yongtao Ge, Yuanyang Yi
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2026</div><img src='images/sitpcl.png' alt="MMDS-Bench" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-MMDS-Bench: Benchmarking Multimodal Large Language Models on Dynamic Stance in Social Media Interactions \\
+**EMNLP 2026** · MMDS-Bench: Benchmarking Multimodal Large Language Models on Dynamic Stance in Social Media Interactions \\
 Yuzhe Ding, **Kang He**, Li Zheng, Shengwu Zheng, Teng Shi, Fei Li, Chong Teng, Donghong Ji
 
 <span class="paper-links">Paper coming soon</span>
@@ -34,7 +34,7 @@ Yuzhe Ding, **Kang He**, Li Zheng, Shengwu Zheng, Teng Shi, Fei Li, Chong Teng, 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IPM</div><img src='images/rsda.png' alt="IPM paper" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Heuristic Personality Recognition Based on Fusing Multiple Conversations and Utterance-Level Affection](https://doi.org/10.1016/j.ipm.2024.103931) \\
+**IPM 2024** · [Heuristic Personality Recognition Based on Fusing Multiple Conversations and Utterance-Level Affection](https://doi.org/10.1016/j.ipm.2024.103931) \\
 H. He, Bobo Li, Yiyun Xiong, Zheng Li, **Kang He**, Fei Li, Donghong Ji, et al.
 
 <span class="paper-links"><a href="https://doi.org/10.1016/j.ipm.2024.103931">Paper</a></span>
@@ -44,7 +44,7 @@ H. He, Bobo Li, Yiyun Xiong, Zheng Li, **Kang He**, Fei Li, Donghong Ji, et al.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026</div><img src='images/ease.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Uncertainty-Calibrated Elastic Alignment for Multimodal Sentiment Analysis with Missing Modalities](https://aclanthology.org/2026.findings-acl.260/) \\
+**ACL 2026 Findings** · [Uncertainty-Calibrated Elastic Alignment for Multimodal Sentiment Analysis with Missing Modalities](https://aclanthology.org/2026.findings-acl.260/) \\
 **Kang He**, Yuzhe Ding, Rao Fu, Yukang Feng, Kaipeng Zhang, Yiming Liu, Fei Li, Chong Teng, Donghong Ji
 
 <span class="paper-links"><a href="https://aclanthology.org/2026.findings-acl.260/">Paper</a></span>
@@ -56,7 +56,7 @@ H. He, Bobo Li, Yiyun Xiong, Zheng Li, **Kang He**, Fei Li, Donghong Ji, et al.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/ebmc.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Enhance-then-Balance Modality Collaboration for Robust Multimodal Sentiment Analysis](https://arxiv.org/abs/2604.12518) \\
+**CVPR 2026** · [Enhance-then-Balance Modality Collaboration for Robust Multimodal Sentiment Analysis](https://arxiv.org/abs/2604.12518) \\
 **Kang He**, Yuzhe Ding, Xinrong Wang, Fei Li, Chong Teng, Donghong Ji
 
 <span class="paper-links"><a href="https://arxiv.org/abs/2604.12518">Paper</a> · <a href="https://github.com/kangverse/EBMC">Code</a> <a href="https://img.shields.io/github/stars/kangverse/EBMC?style=flat-square"><img src="https://img.shields.io/github/stars/kangverse/EBMC?style=flat-square" alt="GitHub stars"></a></span>
@@ -68,7 +68,7 @@ H. He, Bobo Li, Yiyun Xiong, Zheng Li, **Kang He**, Fei Li, Donghong Ji, et al.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/pase.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[PaSE: Prototype-aligned Calibration and Shapley-based Equilibrium for Multimodal Sentiment Analysis](https://arxiv.org/abs/2511.17585) \\
+**AAAI 2026** · [PaSE: Prototype-aligned Calibration and Shapley-based Equilibrium for Multimodal Sentiment Analysis](https://arxiv.org/abs/2511.17585) \\
 **Kang He**, Boyu Chen, Yuzhe Ding, Fei Li, Chong Teng, Donghong Ji
 
 <span class="paper-links"><a href="https://arxiv.org/abs/2511.17585">Paper</a></span>
@@ -80,7 +80,7 @@ H. He, Bobo Li, Yiyun Xiong, Zheng Li, **Kang He**, Fei Li, Donghong Ji, et al.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='images/dalr.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[DALR: Dual-level Alignment Learning for Multimodal Sentence Representation Learning](https://aclanthology.org/2025.findings-acl.183.pdf) \\
+**ACL 2025 Findings** · [DALR: Dual-level Alignment Learning for Multimodal Sentence Representation Learning](https://aclanthology.org/2025.findings-acl.183.pdf) \\
 **Kang He**, Yuzhe Ding, Haining Wang, Fei Li, Chong Teng, Donghong Ji
 
 <span class="paper-links"><a href="https://aclanthology.org/2025.findings-acl.183/">Paper</a></span>
@@ -98,7 +98,7 @@ H. He, Bobo Li, Yiyun Xiong, Zheng Li, **Kang He**, Fei Li, Donghong Ji, et al.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='images/sitpcl.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Zero-Shot Conversational Stance Detection: Dataset and Approaches](https://aclanthology.org/2025.findings-acl.168.pdf) \\
+**ACL 2025 Findings** · [Zero-Shot Conversational Stance Detection: Dataset and Approaches](https://aclanthology.org/2025.findings-acl.168.pdf) \\
 Yuzhe Ding, **Kang He**, Bobo Li, Li Zheng, Haijun He, Fei Li, Xu Han, Chong Teng, Donghong Ji
 
 <span class="paper-links"><a href="https://aclanthology.org/2025.findings-acl.168/">Paper</a></span>

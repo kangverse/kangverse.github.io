@@ -46,7 +46,7 @@
   --kv-accent: #e86d55;
   --kv-accent-dark: #b94b3e;
   --kv-surface: #fffdf8;
-  font-family: "Space Grotesk", "Helvetica Neue", Helvetica, sans-serif;
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
   color: var(--kv-ink);
   background:
     radial-gradient(70% 45% at 100% 0%, rgba(232, 109, 85, .12), transparent 70%),
@@ -63,7 +63,7 @@
 }
 
 .kv-home h1 {
-  font-family: "Fraunces", Georgia, serif;
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
   border-bottom: 0;
   margin-top: 2.2rem;
   margin-bottom: 0.9rem;
@@ -130,7 +130,9 @@
 .kv-hero .kv-hero__title {
   margin-top: 0.75rem;
   margin-bottom: 0.9rem;
-  font-family: "Fraunces", Georgia, serif;
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+  font-weight: 700;
+  letter-spacing: -0.025em;
   font-size: clamp(2rem, 4vw, 3.3rem);
   line-height: 1.1;
   color: var(--kv-ink);

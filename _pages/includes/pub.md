@@ -27,14 +27,6 @@ Yuzhe Ding, **Kang He**, Li Zheng, Shengwu Zheng, Teng Shi, Fei Li, Chong Teng, 
 
 </div></div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2026</div><img src='images/dalr.png' alt="PaperGraph-Bench" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-PaperGraph-Bench \\
-**Kang He**, et al.
-
-</div></div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IPM</div><img src='images/rsda.png' alt="IPM paper" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 

@@ -12,11 +12,11 @@
     </p>
     <p>My research interests include <strong>multimodal sentiment analysis</strong>, <strong>world models</strong>, and <strong>reasoning in large language models</strong>.</p>
     <p class="kv-hero__links">
-      <a href="https://scholar.google.com/citations?user=XZkbR5sAAAAJ">Google Scholar</a>
+      <a href="https://scholar.google.com/citations?user=XZkbR5sAAAAJ"><i class="ai ai-google-scholar"></i> Google Scholar</a>
       <span>·</span>
-      <a href="https://github.com/kangverse">GitHub</a>
+      <a href="https://github.com/kangverse"><i class="fab fa-github"></i> GitHub</a>
       <span>·</span>
-      <a href="mailto:hekang0225@whu.edu.cn">Email me</a>
+      <a href="mailto:hekang0225@whu.edu.cn"><i class="fas fa-envelope"></i> Email</a>
     </p>
   </div>
 </section>

@@ -5,6 +5,15 @@
 
 <div class='paper-box'><div class='paper-box-text' markdown="1">
 
+**ACL 2026** · [LongCLI-Bench: A Preliminary Benchmark and Study for Long-horizon Agentic Programming in Command-Line Interfaces](https://aclanthology.org/2026.findings-acl.1497/) \\
+Yukang Feng, Jianwen Sun, Zelai Yang, Jiaxin Ai, Chuanhao Li, Zizhen Li, Fanrui Zhang, **Kang He**, et al.
+
+<span class="paper-links"><a href="https://aclanthology.org/2026.findings-acl.1497/">Paper</a> · <a href="https://github.com/finyorko/longcli-bench">Code</a> <a href="https://img.shields.io/github/stars/finyorko/longcli-bench?style=flat-square"><img src="https://img.shields.io/github/stars/finyorko/longcli-bench?style=flat-square" alt="GitHub stars"></a></span>
+
+</div></div>
+
+<div class='paper-box'><div class='paper-box-text' markdown="1">
+
 **arXiv 2026** · [Sekai2: From World Exploration to Interactive World Modeling](https://arxiv.org/abs/2608.09449) \\
 **Kang He**, Wenshuo Peng, Zihui Gao, Jiaming Tan, Kaipeng Zhang, Yongtao Ge
 

@@ -348,30 +348,6 @@ svg {
 [data-theme="dark"] .button-primary {
   color: #111823;
 }
-.orcid-link {
-  margin-top: 16px;
-  display: inline-flex;
-  gap: 8px;
-  align-items: center;
-  font-size: 12px;
-  color: var(--muted);
-}
-.orcid-id {
-  width: 16px;
-  height: 16px;
-  background: #79a237;
-  border-radius: 50%;
-  color: white;
-  display: grid;
-  place-items: center;
-  font-size: 10px;
-  font-weight: 600;
-  line-height: 1;
-}
-.orcid-link > span:last-child {
-  letter-spacing: 0.035em;
-  color: var(--soft);
-}
 .portrait {
   position: relative;
   padding: 16px 16px 0 0;
@@ -735,7 +711,7 @@ svg {
 }
 .news-item {
   display: grid;
-  grid-template-columns: 88px 76px 1fr;
+  grid-template-columns: 88px 86px 1fr;
   gap: 16px;
   align-items: baseline;
   padding: 15px 0;
@@ -748,6 +724,10 @@ svg {
   color: var(--muted);
 }
 .news-tag {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35em;
+  white-space: nowrap;
   font-size: 10px;
   letter-spacing: 0.04em;
   border: 1px solid var(--line);
@@ -1287,9 +1267,6 @@ svg {
     gap: 7px;
     margin-top: 21px;
   }
-  .orcid-link {
-    font-size: 11px;
-  }
   .section {
     padding-top: 58px;
   }
@@ -1356,7 +1333,7 @@ svg {
     font-size: 24px;
   }
   .news-item {
-    grid-template-columns: 71px 68px 1fr;
+    grid-template-columns: 71px 86px 1fr;
     gap: 12px;
     font-size: 13px;
   }
@@ -1509,9 +1486,6 @@ svg {
   .button .icon {
     width: 16px;
     height: 16px;
-  }
-  .orcid-link {
-    margin-top: 14px;
   }
   .portrait {
     max-width: none;

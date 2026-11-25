@@ -51,7 +51,6 @@
           <a class="button" href="https://github.com/kangverse">{% include home-icon.html name='github' %} GitHub</a>
           <a class="button" href="mailto:hekang0225@whu.edu.cn">{% include home-icon.html name='mail' %} Email</a>
         </div>
-        <a class="orcid-link" href="https://orcid.org/0009-0001-3366-5178"><span class="orcid-id">iD</span> ORCID <span>0009-0001-3366-5178</span></a>
       </div>
       <figure class="portrait">
         <div class="portrait-frame"><img src="{{ '/assets/images/kang-he.webp' | relative_url }}" width="900" height="900" alt="Kang He on a bridge beside the river" fetchpriority="high"></div>
@@ -104,7 +103,10 @@
         {% for item in site.data.home.news %}
         <div class="news-item">
           <time datetime="{{ item.date | replace: '.', '-' }}">{{ item.date }}</time>
-          <span class="news-tag{% if item.tag == 'Award' %} award-tag{% endif %}">{{ item.tag }}</span>
+          <span class="news-tag{% if item.tag == 'Award' %} award-tag{% endif %}">
+            <span aria-hidden="true">{% case item.tag %}{% when 'Paper', 'Papers' %}🎉{% when 'Research' %}🚀{% when 'Award' %}🏅{% endcase %}</span>
+            {{ item.tag }}
+          </span>
           <p>{{ item.text }}</p>
         </div>
         {% endfor %}

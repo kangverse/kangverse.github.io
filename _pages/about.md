@@ -1,24 +1,10 @@
 ---
+layout: homepage
 permalink: /
-title: ""
-excerpt: ""
-author_profile: true
-redirect_from: 
+title: "Kang He (何慷)"
+description: "Ph.D. student at Wuhan University and Shanghai Innovation Institute. Research in world models, multimodal learning, and LLM reasoning."
+author_profile: false
+redirect_from:
   - /about/
   - /about.html
 ---
-
-<div class="kv-home" markdown="1">
-<span class='anchor' id='about-me'></span>
-{% include_relative includes/intro.md %}
-
-{% include_relative includes/news.md %}
-
-{% include_relative includes/others.md %}
-
-{% include_relative includes/pub.md %}
-<!-- {% include_relative includes/pub_short.md %} -->
-
-{% include_relative includes/honers.md %}
-
-</div>

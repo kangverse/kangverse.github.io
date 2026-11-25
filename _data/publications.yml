@@ -1,0 +1,170 @@
+# Author order and links retained from the previous homepage, except GameVerse
+# (verified against https://kangverse.github.io/GameVerse/ on 2026-11-25).
+- id: gameverse
+  image: gameverse-figure
+  image_alt: GameVerse construction pipeline and dataset overview, Figure 1
+  project_name: GameVerse
+  poster: gameverse.webp
+  title: 'GameVerse: A Minute-Scale Gameplay Dataset for Long-Horizon Interactive World Modeling'
+  authors: 'Kang He, Wenshuo Peng, Chuanhao Li, Zihui Gao, Xiaojie Xu, Zhengyuan Lin, Yuzhe Ding, Donghong Ji, Kaipeng Zhang, Yongtao Ge'
+  venue: NeurIPS 2026
+  year: 2026
+  category: worlds
+  summary: Minute-scale gameplay with camera trajectories and structured semantics for long-horizon interactive world modeling.
+  links:
+    - {label: Paper, url: 'https://arxiv.org/abs/2610.37257'}
+    - {label: Project, url: 'https://kangverse.github.io/GameVerse/'}
+    - {label: Code, url: 'https://github.com/kangverse/GameVerse'}
+    - {label: Dataset, url: 'https://huggingface.co/datasets/Kangverse/GameVerse'}
+- id: sekai2
+  image: sekai2-figure
+  image_alt: Composition and visual coverage of Sekai2, Figure 1
+  project_name: Sekai2
+  poster: sekai2-poster.webp
+  preview_video: sekai2-preview.mp4
+  title: 'Sekai2: From World Exploration to Interactive World Modeling'
+  authors: 'Kang He, Wenshuo Peng, Zihui Gao, Jiaming Tan, Kaipeng Zhang, Yongtao Ge'
+  venue: arXiv 2026
+  year: 2026
+  category: worlds
+  summary: Real-world egocentric video paired with camera trajectories and temporally grounded language.
+  links:
+    - {label: Paper, url: 'https://arxiv.org/abs/2608.09449'}
+    - {label: Project, url: 'https://kangverse.github.io/sekai2-project/'}
+    - {label: Code, url: 'https://github.com/kangverse/Sekai2-Dataset'}
+    - {label: Dataset, url: 'https://huggingface.co/datasets/Kangverse/Sekai2_Real_World'}
+- id: alayaworld
+  image: alayaworld-figure
+  image_alt: AlayaWorld training stages, Figure 3
+  project_name: AlayaWorld
+  poster: alayaworld-poster.webp
+  preview_video: alayaworld-preview.mp4
+  title: 'AlayaWorld: Interactive Long-Horizon World Modeling — Full Technical Report'
+  authors: 'AlayaWorld Team, Kaipeng Zhang, Chuanhao Li, Yifan Zhan, Yongtao Ge, Yuanyang Yin, Jiaming Tan, Kang He, et al.'
+  venue: arXiv 2026
+  year: 2026
+  category: worlds
+  summary: An interactive video world model for long-horizon generation and camera-controlled exploration.
+  links:
+    - {label: Paper, url: 'https://arxiv.org/abs/2607.18367'}
+    - {label: Project, url: 'https://alaya-lab.github.io/AlayaWorld/'}
+    - {label: Code, url: 'https://github.com/AlayaLab/AlayaWorld'}
+    - {label: Model, url: 'https://huggingface.co/AlayaLab/AlayaWorld'}
+- id: longcli
+  image: longcli-figure
+  image_alt: LongCLI-Bench task construction pipeline, Figure 3
+  title: 'LongCLI-Bench: A Preliminary Benchmark and Study for Long-horizon Agentic Programming in Command-Line Interfaces'
+  authors: 'Yukang Feng, Jianwen Sun, Zelai Yang, Jiaxin Ai, Chuanhao Li, Zizhen Li, Fanrui Zhang, Kang He, et al.'
+  venue: ACL 2026 · Findings
+  year: 2026
+  category: reasoning
+  summary: A benchmark for studying long-horizon agentic programming in command-line environments.
+  links:
+    - {label: Paper, url: 'https://aclanthology.org/2026.findings-acl.1497/'}
+    - {label: Code, url: 'https://github.com/finyorko/longcli-bench'}
+- id: mmds
+  image: mmds-figure
+  image_alt: Dataset construction and evaluation in MMDS-Bench, Figure 1
+  title: 'MMDS-Bench: Benchmarking Multimodal Large Language Models on Dynamic Stance in Social Media Interactions'
+  authors: 'Yuzhe Ding, Kang He, Li Zheng, Shengwu Zheng, Teng Shi, Fei Li, Chong Teng, Donghong Ji'
+  venue: EMNLP 2026
+  year: 2026
+  category: multimodal
+  oral: true
+  equal_contribution: true
+  links:
+    - {label: Paper, url: 'https://aclanthology.org/2026.emnlp-main.1165/'}
+    - {label: Code / Dataset, url: 'https://github.com/whu-yzding/MMDS-Bench'}
+- id: papergraph
+  image: papergraph-figure
+  image_alt: PaperGraph-Bench construction framework, Figure 3
+  title: 'PaperGraph-Bench: Graph-Guided Benchmark Construction and Multi-Turn Evaluation for Scientific Paper Reading'
+  authors: 'Rao Fu, Qing Dai, Kaitai Ou-yang, Kang He, Fei Li, Donghong Ji, Chong Teng'
+  venue: EMNLP 2026 · Findings
+  year: 2026
+  category: reasoning
+  links:
+    - {label: Paper, url: 'https://aclanthology.org/2026.findings-emnlp.804/'}
+    - {label: Code / Dataset, url: 'https://github.com/furao0011/PaperGraphBench'}
+- id: constance
+  image: constance-figure
+  image_alt: Continual stance detection training and inference framework
+  title: Towards Continual Stance Detection via Dual Prototype Aware Mixture of Experts Network
+  authors: 'Yuzhe Ding, Yuxiang Peng, Kang He, Li Zheng, Bobo Li, Chong Teng, Fei Li, Donghong Ji'
+  venue: IPM 2026
+  year: 2026
+  category: multimodal
+  links:
+    - {label: Paper, url: 'https://doi.org/10.1016/j.ipm.2026.105103'}
+    - {label: Code / Dataset, url: 'https://github.com/whu-yzding/ConStance'}
+- id: ease
+  title: Uncertainty-Calibrated Elastic Alignment for Multimodal Sentiment Analysis with Missing Modalities
+  authors: 'Kang He, Yuzhe Ding, Rao Fu, Yukang Feng, Kaipeng Zhang, Yiming Liu, Fei Li, Chong Teng, Donghong Ji'
+  venue: ACL 2026 · Findings
+  year: 2026
+  category: multimodal
+  image: ease
+  image_alt: EASE framework for elastic alignment with missing modalities
+  links:
+    - {label: Paper, url: 'https://aclanthology.org/2026.findings-acl.260/'}
+- id: ebmc
+  title: Enhance-then-Balance Modality Collaboration for Robust Multimodal Sentiment Analysis
+  authors: 'Kang He, Yuzhe Ding, Xinrong Wang, Fei Li, Chong Teng, Donghong Ji'
+  venue: CVPR 2026
+  year: 2026
+  category: multimodal
+  image: ebmc
+  image_alt: EBMC framework for enhancing and balancing multimodal collaboration
+  links:
+    - {label: Paper, url: 'https://arxiv.org/abs/2604.12518'}
+    - {label: Code, url: 'https://github.com/kangverse/EBMC'}
+- id: pase
+  title: 'PaSE: Prototype-aligned Calibration and Shapley-based Equilibrium for Multimodal Sentiment Analysis'
+  authors: 'Kang He, Boyu Chen, Yuzhe Ding, Fei Li, Chong Teng, Donghong Ji'
+  venue: AAAI 2026
+  year: 2026
+  category: multimodal
+  image: pase
+  image_alt: PaSE architecture for prototype calibration and modality equilibrium
+  links:
+    - {label: Paper, url: 'https://arxiv.org/abs/2511.17585'}
+- id: dalr
+  title: 'DALR: Dual-level Alignment Learning for Multimodal Sentence Representation Learning'
+  authors: 'Kang He, Yuzhe Ding, Haining Wang, Fei Li, Chong Teng, Donghong Ji'
+  venue: ACL 2025 · Findings
+  year: 2025
+  category: multimodal
+  image: dalr
+  image_alt: Dual-level alignment learning framework
+  links:
+    - {label: Paper, url: 'https://aclanthology.org/2025.findings-acl.183/'}
+- id: stance
+  title: 'Zero-Shot Conversational Stance Detection: Dataset and Approaches'
+  authors: 'Yuzhe Ding, Kang He, Bobo Li, Li Zheng, Haijun He, Fei Li, Xu Han, Chong Teng, Donghong Ji'
+  venue: ACL 2025 · Findings
+  year: 2025
+  category: multimodal
+  image: sitpcl
+  image_alt: Conversational stance detection approach
+  links:
+    - {label: Paper, url: 'https://aclanthology.org/2025.findings-acl.168/'}
+- id: sentence
+  image: sentence-figure
+  image_alt: Sentence embedding enhancement framework
+  title: Harnessing Dimensional Contrast and Information Compensation for Sentence Embedding Enhancement
+  authors: 'Kang He, Yuzhe Ding, Bobo Li, Haining Wang, Fei Li, Chong Teng, Donghong Ji'
+  venue: ICASSP 2025
+  year: 2025
+  category: multimodal
+  links:
+    - {label: Paper, url: 'https://ieeexplore.ieee.org/abstract/document/10887581/'}
+- id: refining
+  title: 'Refining and Synthesis: A Simple yet Effective Data Augmentation Framework for Cross-Domain Aspect-based Sentiment Analysis'
+  authors: 'Haining Wang, Kang He, Bobo Li, Lei Chen, Fei Li, Xu Han, Chong Teng, Donghong Ji'
+  venue: ACL 2024 · Findings
+  year: 2024
+  category: multimodal
+  image: rsda
+  image_alt: Refining and synthesis data augmentation framework
+  links:
+    - {label: Paper, url: 'https://aclanthology.org/2024.findings-acl.615/'}

@@ -1,0 +1,51 @@
+# Scholarship: user stated in this session that they received it in October.
+# Year interpreted as current year (2026); no percentile claim added.
+news:
+  - date: '2026.10'
+    tag: Award
+    text: 'Honored to receive the <strong>National Scholarship</strong>.'
+  - date: '2026.10'
+    tag: Research
+    text: '<a href="https://kangverse.github.io/GameVerse/">GameVerse</a>, our minute-scale gameplay dataset for interactive world modeling, is now available. <span class="inline-venue">NeurIPS 2026</span>'
+  - date: '2026.08'
+    tag: Research
+    text: 'Released <a href="https://arxiv.org/abs/2608.09449">Sekai2</a>, a large-scale video dataset for interactive world modeling.'
+  - date: '2026.08'
+    tag: Papers
+    text: 'Two papers accepted to <strong>EMNLP 2026</strong>: <a href="https://aclanthology.org/2026.emnlp-main.1165/">MMDS-Bench</a> (<strong>Oral</strong>) and <a href="https://aclanthology.org/2026.findings-emnlp.804/">PaperGraph-Bench</a>.'
+  - date: '2026.07'
+    tag: Research
+    text: 'Released <a href="https://alaya-lab.github.io/AlayaWorld/">AlayaWorld</a>, an interactive long-horizon video world model.'
+  - date: '2026.04'
+    tag: Papers
+    text: 'Two papers accepted to <strong>ACL 2026</strong>: <a href="https://aclanthology.org/2026.findings-acl.1497/">LongCLI-Bench</a> and <a href="https://aclanthology.org/2026.findings-acl.260/">EASE</a>.'
+  - date: '2026.02'
+    tag: Paper
+    text: '<a href="https://arxiv.org/abs/2604.12518">Enhance-then-Balance Modality Collaboration</a> accepted to <strong>CVPR 2026</strong>.'
+  - date: '2025.11'
+    tag: Paper
+    text: '<a href="https://arxiv.org/abs/2511.17585">PaSE</a> accepted to <strong>AAAI 2026</strong>.'
+  - date: '2025.05'
+    tag: Papers
+    text: '<a href="https://aclanthology.org/2025.findings-acl.183/">DALR</a> and <a href="https://aclanthology.org/2025.findings-acl.168/">Zero-Shot Conversational Stance Detection</a> accepted to <strong>ACL 2025 Findings</strong>.'
+awards:
+  - {date: '2026.10', title: National Scholarship, detail: 国家奖学金, featured: true}
+  - {date: '2025.10', title: Lei Jun Graduate Scholarship in Computer Science, detail: Xiaomi Foundation}
+  - {date: '2024.10', title: National Scholarship, detail: '国家奖学金 · Top 1%'}
+  - {date: '2024.10', title: National Second Prize, detail: 6th Graduate Artificial Intelligence Innovation Competition}
+  - {date: '2023.11', title: National First Prize, detail: 2nd Graduate Cybersecurity Innovation Competition}
+  - {date: '2021.10', title: National Endeavor Scholarship, detail: 国家励志奖学金}
+education:
+  - dates: '2025.09 — present'
+    degree: Ph.D. in Computer Science
+    institution: Wuhan University × Shanghai Innovation Institute
+    detail: 'Advisors: <a href="https://scholar.google.com/citations?user=2Q-7u3AAAAAJ">Donghong Ji</a>, <a href="https://xpqiu.github.io/">Xipeng Qiu</a>, and <a href="https://kpzhang93.github.io/">Kaipeng Zhang</a>'
+    current: true
+  - dates: '2022.09 — 2025.06'
+    degree: M.S. in Cyberspace Science
+    institution: Wuhan University
+    detail: 'Advisor: <a href="https://scholar.google.com/citations?user=2Q-7u3AAAAAJ">Prof. Donghong Ji</a>'
+  - dates: '2018.09 — 2022.06'
+    degree: B.S. in Computer Science
+    institution: Wuhan University
+    detail: 'Advisor: <a href="https://marswhu.github.io/">Prof. Mang Ye</a>'

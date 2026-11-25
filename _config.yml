@@ -6,6 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
+url: "https://kangverse.github.io"
+baseurl: ""
 title                    : "Kang He (何慷)"
 description              : "Research Focus: Multimodal Sentiment Analysis, World Models, and LLM Reasoning."
 repository               : "kangverse/kangverse.github.io"
@@ -65,6 +67,10 @@ include:
   - _pages
   - files
 exclude:
+  - agent
+  - AGENTS.md
+  - CLAUDE.md
+  - scripts
   - docs
   - google_scholar_crawler
   - "*.sublime-project"
